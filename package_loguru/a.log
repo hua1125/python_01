@@ -1,0 +1,20 @@
+2022-05-30 10:47:22.470 | DEBUG    | __main__:<module>:12 - 这是一条Debug日志
+2022-05-30 10:47:22.471 | INFO     | __main__:<module>:13 - 这是一条info日志
+2022-05-30 10:47:22.471 | WARNING  | __main__:<module>:14 - 这是一条warning日志
+2022-05-30 10:47:22.471 | SUCCESS  | __main__:<module>:15 - 这是一条success日志
+2022-05-30 10:47:22.471 | ERROR    | __main__:<module>:16 - 这是一条error日志
+2022-05-30 at 10:51:29 | DEBUG |这是一条Debug日志
+2022-05-30 at 10:51:29 | INFO |这是一条info日志
+2022-05-30 at 10:51:29 | WARNING |这是一条warning日志
+2022-05-30 at 10:51:29 | SUCCESS |这是一条success日志
+2022-05-30 at 10:51:29 | ERROR |这是一条error日志
+Yu22-05-30 at 11:02:01 | DEBUG |这是一条Debug日志
+Yu22-05-30 at 11:02:01 | INFO |这是一条info日志
+Yu22-05-30 at 11:02:01 | WARNING |这是一条warning日志
+Yu22-05-30 at 11:02:01 | SUCCESS |这是一条success日志
+Yu22-05-30 at 11:02:01 | ERROR |这是一条error日志
+2022-05-30 at 11:02:18 | DEBUG |这是一条Debug日志
+2022-05-30 at 11:02:18 | INFO |这是一条info日志
+2022-05-30 at 11:02:18 | WARNING |这是一条warning日志
+2022-05-30 at 11:02:18 | SUCCESS |这是一条success日志
+2022-05-30 at 11:02:18 | ERROR |这是一条error日志
